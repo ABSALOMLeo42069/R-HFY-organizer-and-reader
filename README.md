@@ -2,7 +2,7 @@
 
 **⚠️ This is alpha (v0.45). Fork it, edit it, use it any way you like, but eemember, this is not a downloader. Expect bugs, missing features, and breaking changes.**
 
-A cyberpunk-themed web application for organizing and reading HFY (Humanity, Fuck Yeah!) stories from Reddit's r/HFY subreddit. Features 5,533 series with 72,248+ chapters, a full-screen reader with 22 themes and 27 fonts, automatic read tracking, and chapter discovery via 8 methods.
+A cyberpunk-themed web application for organizing and reading HFY (Humanity, Fuck Yeah!) stories from Reddit's r/HFY subreddit. 
 
 **This is a reader and organizer, NOT a downloader.** Chapter text content is cached in-browser for offline reading during your session only — it is erased on every restart. Chapter links and series data persist, but the actual story text does not.
 
