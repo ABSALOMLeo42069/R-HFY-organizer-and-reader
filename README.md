@@ -476,6 +476,3 @@ The content accessed through the application (stories, chapters, and associated 
 
 Redistribution of the application itself, with or without modification, is permitted provided that this README, including the Legal Notice, is included unmodified.
 
----
-
-*HFY NEKROCODEXXX — Cyberdeck v250fx4. Read stories. Cache content. Respect authors.*
