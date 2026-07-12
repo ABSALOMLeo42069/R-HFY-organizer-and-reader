@@ -458,13 +458,6 @@ This project is open for modification. Suggested areas for improvement:
 
 **Technology stack:** Next.js 16, React 18, Zustand, Tailwind CSS, Puppeteer-Core, Capacitor, Java, libnode.so, SQLite, IndexedDB, NDJSON.
 
----
-
-## Credits
-
-**Developer:** Mahmudul Hossain
-
-This application was built because reading serial fiction on the Reddit mobile client is a poor experience, and existing alternatives either do not support offline reading or require accounts. This application does neither.
 
 ---
 
