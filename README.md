@@ -1,4 +1,4 @@
-# HFY NEKROCODEXXX — Cyberdeck
+# HFY NEKROCODEXXX
 
 A standalone reader for r/HFY fiction. Runs entirely on your device — no cloud services, no tracking, no external dependencies beyond Reddit's public content endpoints.
 
